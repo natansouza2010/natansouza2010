@@ -1,7 +1,7 @@
 ### Hello World 👋
   <div align="left">
   <p>
-    Prazer, meu nome é Natan e sou aspirante a desenvolvedor FullStack ! <br>
+    Prazer, meu nome é Natan e sou aspirante a desenvolvedor mobile ! <br>
   </p>
   <p>
     🔭 Estou me graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo IFSP - São Carlos.
@@ -15,7 +15,7 @@
   </div>
     
   <p align="left">
-  <a href="https://www.instagram.com/natanbsouza/" alt="Instagram">
+  <a href="https://www.instagram.com/_coenatan/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
   
   <a href="https://www.linkedin.com/in/natan-souza-2010/" alt="Linkedin">
