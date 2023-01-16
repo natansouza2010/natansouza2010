@@ -1,7 +1,7 @@
 ### Hello World 👋
   <div align="left">
   <p>
-    Prazer, meu nome é Natan e sou aspirante a desenvolvedor mobile ! <br>
+    Prazer, meu nome é Natan  <br>
   </p>
   <p>
     🔭 Estou me graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo IFSP - São Carlos.
