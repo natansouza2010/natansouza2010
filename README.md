@@ -2,26 +2,41 @@
   <div align="left">
   <p>
     Prazer, meu nome é Natan  <br>
+    
   </p>
   <p>
     🔭 Estou me graduando em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo IFSP - São Carlos.
+    
   </p>
-  <div>
+ 
+  </div>
+
   
   <div>
   <a href="https://github.com/natansouza2010">
     <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=natansouza2010&show_icons=true&theme=dracula"/>
     <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natansouza2010&layout=compact&theme=dracula"/>
+ 
   </div>
-    
+  
+       
+   <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" min-width="100px" max-width="100px" width="100px">
+  
+  
   <p align="left">
   <a href="https://www.instagram.com/_coenatan/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
-  
   <a href="https://www.linkedin.com/in/natan-souza-2010/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-
+ 
   </p>  
+    
+
+
+
+
+  
+
     
   
 
