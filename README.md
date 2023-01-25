@@ -14,8 +14,8 @@
   
   <div>
   <a href="https://github.com/natansouza2010">
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=natansouza2010&show_icons=true&theme=dracula"/>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natansouza2010&layout=compact&theme=dracula"/>
+    <img height="180rem" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=natansouza2010&show_icons=true&theme=dracula"/>
+    <img height="180rem" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=natansouza2010&layout=compact&theme=dracula"/>
  
   </div>
   
